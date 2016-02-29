@@ -1,0 +1,23 @@
+{
+  "name": "senior-capstone",
+  "version": "1.0.0",
+  "description": "API to check spam score of emails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mothepro/senior-capstone.git"
+  },
+  "author": {
+    "name": "Maurice Prosper",
+    "email": "maurice.prosper@ttu.edu",
+    "url": "http://mauriceprosper.com/"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mothepro/senior-capstone/issues"
+  },
+  "homepage": "https://github.com/mothepro/senior-capstone#readme"
+}
