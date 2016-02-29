@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/mothepro/senior-capstone/issues"
   },
-  "homepage": "https://github.com/mothepro/senior-capstone#readme"
+  "homepage": "https://github.com/mothepro/senior-capstone#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "node-spamd": "0.0.4"
+  }
 }
